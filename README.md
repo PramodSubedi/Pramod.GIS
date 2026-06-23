@@ -29,9 +29,9 @@ project in Sindhuli and Ramechhap, Nepal.
 
 ## Publications
 
-- **Timber Volume Disprepancies in Sagarnath Forest Development Project, Nepal** — Iranian Journal of Forestry.*, 2025
+- **Timber Volume Disprepancies in Sagarnath Forest Development Project, Nepal** — *Iranian Journal of Forestry*, 2025
 - **Landslide Susceptibility Mapping Using GIS Based Frequency Ratio Method in Eastern Nepal** — *Applied and Environmental Soil Science*, Wiley, 2026 (accepted)
-- Flood susceptibility mapping in Koshi river basin using AHP model — *in preparation*
+- **Flood susceptibility mapping in Koshi river basin using AHP model** — *in preparation*
 
 ---
 
@@ -55,5 +55,5 @@ project in Sindhuli and Ramechhap, Nepal.
 
 ## Connect
 
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-green?logo=orcid)](https://orcid.org/0009-0004-0608-8346)
-[![Email](https://img.shields.io/badge/Email-yourmail@gmail.com-blue?logo=gmail)](mailto:pramod.subedi.np@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009-0004-0608-8346-green?logo=orcid)](https://orcid.org/0009-0004-0608-8346)
+[![Email](https://img.shields.io/badge/Email-pramod.subedi.np@gmail.com-blue?logo=gmail)](mailto:pramod.subedi.np@gmail.com)
