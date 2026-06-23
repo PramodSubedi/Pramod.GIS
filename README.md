@@ -55,5 +55,5 @@ project in Sindhuli and Ramechhap, Nepal.
 
 ## Connect
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009-0004-0608-8346-green?logo=orcid)](https://orcid.org/0009-0004-0608-8346)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0608--8346--green?logo=orcid)](https://orcid.org/0009-0004-0608-8346)
 [![Email](https://img.shields.io/badge/Email-pramod.subedi.np@gmail.com-blue?logo=gmail)](mailto:pramod.subedi.np@gmail.com)
