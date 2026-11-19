@@ -10,20 +10,14 @@ I combine forestry fieldwork, GIS, and satellite imagery to help forest managers
 
 My field experience includes watershed work with MaWRIN in Sindhuli and Ramechhap and community forest operational mapping. I aim to produce maps and analyses with documented data, methods, and limitations so others can reproduce and use them.
 
-## Research projects
+## Active research
 
-| Area | Project | Status |
+| Project | Focus | Next deliverable |
 | --- | --- | --- |
-| Landslides | [Udayapur landslide susceptibility](https://github.com/PramodSubedi/Landslide-Susceptibility-Mapping) | Published paper and reproducibility repository |
-| Floods | Koshi Basin flood susceptibility using GIS and the Analytic Hierarchy Process | Manuscript in preparation |
-| Mountain hazards | Thame 2024 glacial lake outburst flood cascade reconstruction | In progress |
-| Mountain hazards | Koshi Basin glacial lake inventory and Koshi–Gandaki susceptibility assessment | Planned studies |
+| [Udayapur Frequency Ratio landslide susceptibility](https://github.com/PramodSubedi/Landslide-Susceptibility-Mapping) | Maintain and reproduce the published Udayapur analysis. | A checked run of the existing workflow against the published inventory, susceptibility map, and validation results. |
+| Rasuwa landslide investigation | Document the recent event and map the source area, runout, and downstream effects where imagery supports those distinctions. | A sourced event brief and an annotated before-and-after map. Confirm the event date, location, and usable imagery before delineation. |
 
-## Directions for new repositories
-
-- **Forestry · Trishuli watershed forest-cover change.** Identify where mapped forest cover changed and use reference imagery to flag transitions for field checks. Deliver a transition map, area estimates, and a reproducible workflow.
-- **Floods · Nepal flood mapping and exposure.** Start with one documented flood event. Publish map layers, source data where redistribution is permitted, and a methods note that distinguishes observed impact, mapped flood extent, and estimated exposure.
-- **Landslides · Model transfer across Nepal's mid-hills.** Build on the Udayapur study by testing whether models transfer to a second district and whether forest cover improves predictions. This depends on securing an independent landslide inventory.
+The existing Rasuwa Flood Atlas provides separate context on where post-flood displacement sites were assessed. Those district counts describe assessment coverage. The landslide investigation will use event-specific imagery and independent reference evidence for its mapping.
 
 ## Publications
 
