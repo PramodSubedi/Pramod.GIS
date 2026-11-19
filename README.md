@@ -1,59 +1,35 @@
-# Hi, I'm Pramod 👋
+# Pramod Subedi · Forestry and GIS research
 
-**BSc Forestry | GIS & Remote Sensing Analyst | DRR Researcher**  
-📍 Nepal &nbsp;|&nbsp; 🎓 Agriculture and Forestry University, Nepal
+B.Sc. Forestry · Agriculture and Forestry University, Nepal
 
----
+[Portfolio](https://www.pramods.com.np) · [ORCID](https://orcid.org/0009-0004-0608-8346) · [Email](mailto:pramod.subedi.np@gmail.com)
 
-## About me
+## Research vision
 
-I work at the intersection of **remote sensing, GIS, and disaster risk reduction** 
-in the Hindu Kush Himalaya. My research focuses on glacial lake outburst floods 
-(GLOFs), cascading mountain hazards, landslide susceptibility, and community-based 
-watershed management.
+I combine forestry fieldwork, GIS, and satellite imagery to help forest managers and local planners in Nepal understand where forests are changing, where floods and landslides may affect communities and access routes, and where field surveys can reduce uncertainty.
 
-I use **Google Earth Engine, Python, QGIS, and ArcGIS Pro** to turn satellite data 
-into actionable hazard maps — with field experience from the MaWRIN watershed 
-project in Sindhuli and Ramechhap, Nepal.
+My field experience includes watershed work with MaWRIN in Sindhuli and Ramechhap and community forest operational mapping. I aim to produce maps and analyses with documented data, methods, and limitations so others can reproduce and use them.
 
----
+## Research projects
 
-## Research focus
+| Area | Project | Status |
+| --- | --- | --- |
+| Landslides | [Udayapur landslide susceptibility](https://github.com/PramodSubedi/Landslide-Susceptibility-Mapping) | Published paper and reproducibility repository |
+| Floods | Koshi Basin flood susceptibility using GIS and the Analytic Hierarchy Process | Manuscript in preparation |
+| Mountain hazards | Thame 2024 glacial lake outburst flood cascade reconstruction | In progress |
+| Mountain hazards | Koshi Basin glacial lake inventory and Koshi–Gandaki susceptibility assessment | Planned studies |
 
-- 🏔️ GLOF susceptibility & cascading hazard mapping (Hindu Kush Himalaya)
-- 🌊 Flood extent mapping using SAR (Sentinel-1)
-- 🌿 Landslide susceptibility modelling (Frequency Ratio, ML)
-- 🌲 Community forest monitoring & watershed management (CFUGs)
+## Directions for new repositories
 
----
+- **Forestry · Trishuli watershed forest-cover change.** Identify where mapped forest cover changed and use reference imagery to flag transitions for field checks. Deliver a transition map, area estimates, and a reproducible workflow.
+- **Floods · Nepal flood mapping and exposure.** Start with one documented flood event. Publish map layers, source data where redistribution is permitted, and a methods note that distinguishes observed impact, mapped flood extent, and estimated exposure.
+- **Landslides · Model transfer across Nepal's mid-hills.** Build on the Udayapur study by testing whether models transfer to a second district and whether forest cover improves predictions. This depends on securing an independent landslide inventory.
 
 ## Publications
 
-- **Timber Volume Disprepancies in Sagarnath Forest Development Project, Nepal** — *Iranian Journal of Forestry*, 2025
-- **Landslide Susceptibility Mapping Using GIS Based Frequency Ratio Method in Eastern Nepal** — *Applied and Environmental Soil Science*, Wiley, 2026 (accepted)
-- **Flood susceptibility mapping in Koshi river basin using AHP model** — *in preparation*
+- [Evaluating Timber Volume Discrepancies in Teak Plantations of the Sagarnath Forest Development Project, Nepal: A Comparative Study](https://doi.org/10.22034/ijf.2025.492785.2023) (2025).
+- [Landslide Susceptibility Mapping Using GIS-Based Frequency Ratio Method in Eastern Nepal](https://doi.org/10.1155/aess/6678592), *Applied and Environmental Soil Science* (2026).
 
----
+## Methods and tools
 
-## Current projects
-
-| Project | Tools | Status |
-|---|---|---|
-| Thame 2024 GLOF Cascade Reconstruction | Sentinel-1, GEE, Python | 🔄 In progress |
-| Glacial Lake Inventory — Koshi Basin | Landsat, Sentinel-2, GEE | 📅 Upcoming |
-| GLOF Susceptibility Mapping | Python, scikit-learn, GEE | 📅 Upcoming |
-
----
-
-## Skills
-
-**GIS & RS:** QGIS · ArcGIS Pro · Google Earth Engine · geemap · ENVI  
-**Programming:** Python (pandas, geopandas, rasterio, scikit-learn) · R · GEE JS API  
-**Field:** Watershed management · Community forestry · CFUG operational planning
-
----
-
-## Connect
-
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0608--8346--green?logo=orcid)](https://orcid.org/0009-0004-0608-8346)
-[![Email](https://img.shields.io/badge/Email-pramod.subedi.np@gmail.com-blue?logo=gmail)](mailto:pramod.subedi.np@gmail.com)
+QGIS, ArcGIS Pro, Google Earth Engine, Python, R, remote sensing, watershed fieldwork, and community forest mapping.
